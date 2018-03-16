@@ -1,0 +1,4 @@
+In this example we create a new Java project and a class that extends JFrame class 
+and then create a main method that builds the object of the class. 
+Class contains of an account registration system. First of all get username with JOptionPane.showInputDialog() method. 
+Secondly design the main window.
