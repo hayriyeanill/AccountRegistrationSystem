@@ -107,7 +107,7 @@ public class AccountRegistrationSystem extends JFrame implements ActionListener 
 
 
 	public static void main(String[] args) {
-		new GUI().setVisible(true);
+		new AccountRegistrationSystem().setVisible(true);
 
 	}
 
